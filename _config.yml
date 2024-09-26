@@ -168,10 +168,18 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: AcWing Blog
+  - name: AcWing Solution
+    posts:
+      - url: https://www.acwing.com/solution/content/130077/
+        published_date: 2022-08-05
+  - name: AcWing Solution
     posts:
       - url: https://www.acwing.com/solution/content/112485/
         published_date: 2022-04-21
+  - name: AcWing Solution
+    posts:
+      - url: https://www.acwing.com/solution/content/47528/
+        published_date: 2021-05-01
 
 # -----------------------------------------------------------------------------
 # Newsletter
