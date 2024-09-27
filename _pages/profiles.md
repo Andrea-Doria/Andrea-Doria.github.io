@@ -16,13 +16,11 @@ profiles:
     more_info: >
       <p>王玺开<br>广东，深圳<br>charsnows86@gmail.com</p>
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: prof_pic_fcj.jpg
+    content: about_fcj.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>方成杰<br>浙江，杭州<br>fangchengjie24@mails.ucas.ac.cn</p>
   - align: right
     image: prof_pic_lzh.jpg
     content: freunde/about_lzh.md
