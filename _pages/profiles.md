@@ -17,7 +17,7 @@ profiles:
       <p>王玺开<br>广东，深圳<br>charsnows86@gmail.com</p>
   - align: left
     image: prof_pic_fcj.jpg
-    content: about_fcj.md
+    content: freunde/about_fcj.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>方成杰<br>浙江，杭州<br>fangchengjie24@mails.ucas.ac.cn</p>
