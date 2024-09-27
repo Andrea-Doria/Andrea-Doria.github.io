@@ -27,4 +27,10 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>林子华<br>湖北，武汉<br>fingsinz@outlook.com</p>
+  - align: left
+    image: prof_pic_xzy.jpg
+    content: freunde/about_xzy.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>徐泽宇<br>湖北，武汉<br>kard1024@qq.com</p>
 ---
