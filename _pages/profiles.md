@@ -33,4 +33,10 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>徐泽宇<br>湖北，武汉<br>kard1024@qq.com</p>
+  - align: right
+    image: prof_pic_lzy.jpg
+    content: freunde/about_lzy.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>李卓洋<br>北京<br>2545322339@qq.com</p>
 ---
