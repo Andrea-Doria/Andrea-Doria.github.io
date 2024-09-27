@@ -11,7 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: prof_pic_wxk.jpg
-    content: about_wxk.md
+    content: freunde/about_wxk.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>王玺开<br>广东，深圳<br>charsnows86@gmail.com</p>
